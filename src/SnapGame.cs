@@ -25,7 +25,6 @@ namespace CardGames
 			if (SwinGame.KeyTyped (KeyCode.vk_SPACE))
 			{
 				myGame.Start ();
-<<<<<<< HEAD
 			}
 			if (myGame.IsStarted)
 
@@ -52,8 +51,6 @@ namespace CardGames
 
 					myGame.PlayerHit (1);
 				}
-=======
->>>>>>> add-automatic-card-flip
 			}
 		}
 
